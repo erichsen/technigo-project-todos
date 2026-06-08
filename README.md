@@ -1,15 +1,38 @@
 # Todos
 
-Replace this readme with your own information about the project. You can include things like:
+A simple and clean todo app built with React and Vite. You can add, complete, and delete tasks, and filter the list by status.
 
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
-- How to run the project locally
+## About the project
+
+The assignment was to build a functional todo app using React. The focus was on understanding core React concepts like state management, component structure, props, and event handling.
+
+The app is split into four components — `TodoForm`, `TodoList`, `TodoItem`, and `Filter` — each with a single responsibility. All state lives in `App`, which passes data down via props and receives changes back through callback functions.
+
+## Features
+
+- Add new todos
+- Mark todos as completed
+- Delete todos
+- Filter by All / Active / Completed
+- Live count of remaining items
+
+## Tech used
+
+- React 18
+- Vite
+- React Router DOM
+- Plain CSS
+
+## If I had more time
+
+- Add notes/description to each todo
+- Persist todos in localStorage so they survive a page refresh
+- Drag to reorder todos
+- Due dates
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
 
+_Link coming soon_
 
 ## Getting Started with the Project
 
