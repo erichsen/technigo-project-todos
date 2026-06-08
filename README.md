@@ -32,7 +32,7 @@ The app is split into four components — `TodoForm`, `TodoList`, `TodoItem`, an
 
 ## View it live
 
-_Link coming soon_
+https://technigo-project-todos.pages.dev/
 
 ## Getting Started with the Project
 
